@@ -1,0 +1,20 @@
+Font awesome icones: 
+<script src="https://kit.fontawesome.com/83d8ba9781.js" crossorigin="anonymous"></script>
+
+API key appli weather : 
+ccc5c71f55c888e0d95f1294b0813ded
+
+
+Web site api weather : 
+
+
+video ytb : 
+https://youtu.be/iILFBGm_I9M
+
+temps vidéo : 
+
+4:30 
+
+api url : 
+
+https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
